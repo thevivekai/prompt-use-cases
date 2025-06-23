@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Prompt Engineering Use Cases Banner" width="800"/>
+</p>
+
 # Prompt Engineering Use Cases — Mini Project
 
 **By Vivek AI**
