@@ -1,6 +1,6 @@
 # Prompt Engineering Use Cases — Mini Project
 
-**By Vivek**
+**By Vivek AI**
 
 This mini-project showcases three real-world problems and how Large Language Models (LLMs), through prompt engineering, can solve them efficiently. Each use case is structured as a practical solution with a specific prompt and prompt tuning parameters (`temperature`, `max_tokens`, etc.) to achieve the best output.
 
@@ -30,6 +30,8 @@ Parameters:
 - temperature: 0.4  # Low randomness for objective summary
 - max_tokens: 600   # Allows detailed but concise output
 - frequency_penalty: 0.2  # Prevents repetition of same points
+
+```
 
 ### 🎯 Outcome
 
@@ -65,6 +67,8 @@ Parameters:
 - max_tokens: 750
 - frequency_penalty: 0.1
 
+```
+
 ### 🎯 Outcome
 
 - Jump-starts blog creation process.
@@ -99,6 +103,8 @@ Parameters:
 - temperature: 0.6  # Logical planning with moderate variation
 - max_tokens: 1000
 - presence_penalty: 0.3  # Encourage diversity in daily topics
+
+```
 
 ### 🎯 Outcome
 
